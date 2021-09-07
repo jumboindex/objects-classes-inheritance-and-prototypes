@@ -12,7 +12,7 @@
 
 ## General info
 
-This is some of the code from the Classes moduel in my codecademy course, with the aim being to learn about classes and inheritance. The aim of the lesson was to learn about modern class and iheritance syntax, whilst also understanding the prototype chain.
+This is some of the code from the Classes and inheritanc module in my codecademy course. The aim of the lesson was to learn about modern class and iheritance syntax, whilst also understanding the prototype chain.
 
 ## Technologies
 
